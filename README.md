@@ -1,5 +1,8 @@
 ## Rainbow-XP-Bar
 
+- Curseforge: https://www.curseforge.com/minecraft/texture-packs/tacos-rainbow-xp-bar
+- Modrinth: https://modrinth.com/resourcepack/tacos-rainbow-xp-bar
+
 A simple Minecraft resource pack to make your XP bar rainbow.
 
 This is obviously directly inspired by the well-used [Rainbow XP bar and ping](https://www.curseforge.com/minecraft/texture-packs/rainbow-xp-bar-and-ping), so I used the same licensing and everything.
