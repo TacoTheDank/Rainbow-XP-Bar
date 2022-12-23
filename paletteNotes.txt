@@ -1,0 +1,22 @@
+Minecraft XP bar color palette
+
+Based on hue value changes of 20, from 0 to 340 (18 colors)
+
+#FF0000        H-0
+#FF5500        H-20
+#FFAA00        H-40
+#FFFF00        H-60
+#AAFF00        H-80
+#55FF00        H-100
+#00FF00        H-120
+#00FF55        H-140
+#00FFAA        H-160
+#00FFFF        H-180
+#00AAFF        H-200
+#0055FF        H-220
+#0000FF        H-240
+#5500FF        H-260
+#AA00FF        H-280
+#FF00FF        H-300
+#FF00AA        H-320
+#FF0055        H-340

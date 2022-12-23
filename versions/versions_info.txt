@@ -1,0 +1,6 @@
+https://minecraft.fandom.com/wiki/Resource_pack
+
+pack_format
+
+Version 1.19 – 1.19.2 : "9"
+Version 1.19.3        : "12"
