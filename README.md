@@ -7,17 +7,17 @@ A simple Minecraft resource pack to make your XP bar rainbow.
 
 ![Screenshot](/screenshot.png)
 
-This is obviously directly inspired by the well-used [Rainbow XP bar and ping](https://www.curseforge.com/minecraft/texture-packs/rainbow-xp-bar-and-ping), so I used the same licensing and everything.
-My icon's "color bar" is also directly inspired by it, too.
+This pack is directly inspired by the somewhat popular [Rainbow XP bar and ping](https://www.curseforge.com/minecraft/texture-packs/rainbow-xp-bar-and-ping), so I used the same licensing and everything.
+My pack icon's "color bar" is also directly inspired by it, too.
 
 ...Alright, so why does this exist, then?
 
-I tried using "Rainbow XP bar and ping" and thought it looked way too bright and garish. I personally just don't think it looks that good.
+Well, I tried using "Rainbow XP bar and ping", but thought it was too bright and garish. I personally just don't think it looks that good.
 
-I really liked the concept of the colored XP bar though, so I decided to make my own using a color replacement tool and set intervals of hue value changes.
+I really liked the concept of the colored XP bar though, so I decided to make my own version using a color replacement tool and set intervals of hue value changes.
 (I used Pixlr for this, but you can use any software that has a color replacement tool.)
 
-Unlike the other project, this mod does NOT contain connection bar color changes.
+Unlike "Rainbow XP bar and ping", this pack does NOT contain connection bar color changes.
 I didn't really care about that, so I didn't change it.
 
 Project initially created July 6th, 2022.
