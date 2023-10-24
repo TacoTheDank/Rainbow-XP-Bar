@@ -23,6 +23,12 @@ I didn't really care about that, so I didn't change it.
 Project initially created July 6th, 2022.
 Finally decided to upload it December 2022 so other people could use it if they felt the same way I did.
 
+
+## Important Version/Download Information
+
+Don't worry about the incompatibility warning. As long as you're downloading the correct file, it should work fine.
+
+
 ## Licensing
 
 ```
