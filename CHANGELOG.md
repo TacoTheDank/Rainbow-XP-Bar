@@ -1,5 +1,9 @@
 ## Version Changelog
 
+### Enlightenment (01.29.26)
+I discovered that "1.19-1.20.1" actually works all the way down to 1.7.2 (and probably lower but I can't be bothered to check).
+- Updated pack_format of the new 1.7.2-1.20.1 to 15.
+
 ### Major restructuring (10.24.23)
 I learned more about how resource pack compatibility works and discovered I don't actually need to update the pack_format every time.
 As long as the resource itself wasn't modified, I don't need to care about incompatibility warnings.
